@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#TripData csv files
+*capitalbikeshare-tripdata*
+
 # C extensions
 *.so
 
